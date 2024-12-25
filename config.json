@@ -1,15 +1,15 @@
 {
-    "title":"笔记",
+    "title":"星源笔记",
     "avatarUrl":"https://blog.freeblock.cn/avatar.webp",
     "GMEEK_VERSION":"last",
     "displayTitle":"CJW",
     "homeUrl":"https://blog.freeblock.cn",
-    "subTitle":"aaaaa"
+    "subTitle":"芸生浮梦,忆昔往已",
     "onePageListNum":15,
     "i18n":"CN",
     "singlePage":["link","about"],
     "startSite":"08/16/2018",
-    "filingNum":"aaa",
+    "filingNum":"鲁ICP备2024101898号-1",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
     "themeMode":"fix",
     "dayTheme":"light_tritanopia",
